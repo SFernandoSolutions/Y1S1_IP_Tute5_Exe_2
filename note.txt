@@ -1,0 +1,2 @@
+x=1 , (i) & (ii) both outputs are null ;
+x=10, (i) & (ii) both outputs are 10, 9, 8, 7, 6, 5, 4, 3, 2 ;
